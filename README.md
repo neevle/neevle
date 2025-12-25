@@ -20,9 +20,5 @@ def  __social__(self):
 <h3 align="center">📩 contact@elveen.me 📩</h3>
  
 <p align="center">
-<a href="https://www.instagram.com/elveenw/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
-</p>
-
-<p align="center">
 <a href="https://discord.gg/juventus" target="blank"><img align="center" src="https://img.shields.io/badge/juventus-black?logo=discord" alt="$" /></a>
 </p>
