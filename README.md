@@ -24,5 +24,5 @@ def  __social__(self):
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,lua,vscode,html,css&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=javascript,lua,vscode,html,css&theme=dark&size=48" />
 </p>
