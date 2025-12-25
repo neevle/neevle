@@ -28,5 +28,5 @@ def  __social__(self):
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VALENOR-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTI1NiA0OEMxNjkgNDggOTYgMTIxIDk2IDIwOGMwIDQ4IDI0IDkxIDYyIDEyMXYxMDNjMCAxNyAxNCAzMiAzMiAzMmgxMzJjMTggMCAzMi0xNSAzMi0zMlYzMjlDMzkxIDI5OSA0MTYgMjU2IDQxNiAyMDhDNDE2IDEyMSAzNDMgNDggMjU2IDQ4eiIvPjwvc3ZnPg==&logoColor=white" />
+<img src="https://img.shields.io/badge/VALENOR-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTI1NiA0OEMxNjkgNDggOTYgMTIxIDk2IDIwOGMwIDQ4IDI0IDkxIDYyIDEyMXYxMDNjMCAxNyAxNCAzMiAzMiAzMmgxMzJjMTggMCAzMi0xNSAzMi0zMlYzMjlDMzkxIDI5OSA0MTYgMjU2IDQxNiAyMDhDNDE2IDEyMSAzNDMgNDggMjU2IDQ4eiIvPjwvc3ZnPg==&logoColor=white&logoScale=1.6" />
 </p>
