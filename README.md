@@ -26,8 +26,3 @@ def  __social__(self):
 <p align="center">
 <a href="https://discord.gg/juventus" target="blank"><img align="center" src="https://img.shields.io/badge/juventus-black?logo=discord" alt="$" /></a>
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/VALENOR-black?style=for-the-badge&logo=YOUR_BASE64&logoScale=1.7&logoColor=white" />
-
-</p>
