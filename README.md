@@ -17,7 +17,7 @@ def  __social__(self):
  └─$
 ```
 
-<h3 align="center">📩 contact@elveen.me 📩</h3>
+<h3 align="center">📩 emre@elveen.dev 📩</h3>
  
 <p align="center">
 <a href="https://discord.gg/juventus" target="blank"><img align="center" src="https://img.shields.io/badge/juventus-black?logo=discord" alt="$" /></a>
